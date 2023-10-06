@@ -6,8 +6,6 @@
   border: 5px ridge rgba(0, 0, 0, 0.59);
 }
 
-
-
 #buttons-field {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
@@ -28,7 +26,7 @@ p {
 .calculator button {
   border: 1px solid rgba(0, 0, 0, 0.59);
   border-radius: 10%;
-  background-color: #dada71;
+  background-color: #535349;
   font-size: 24px;
   cursor: pointer;
   transition: all 0.2s ease-in-out;
